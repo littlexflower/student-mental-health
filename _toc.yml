@@ -1,5 +1,0 @@
-format: jb-article
-root: content/intro
-title: Home
-sections:
-- file: notebook.ipynb
